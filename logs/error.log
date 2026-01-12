@@ -1,0 +1,46 @@
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+h2o server (pid:54336) is ready to serve requests with 8 threads
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+[OCSP Stapling] disabled for certificate file:localhost.crt
+[OCSP Stapling] disabled for certificate file:localhost.crt
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+[OCSP Stapling] disabled for certificate file:localhost.crt
+[OCSP Stapling] disabled for certificate file:localhost.crt
+h2o server (pid:54980) is ready to serve requests with 8 threads
+r[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+[OCSP Stapling] disabled for certificate file:localhost.crt
+[OCSP Stapling] disabled for certificate file:localhost.crt
+h2o server (pid:55164) is ready to serve requests with 8 threads
+r[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+h2o server (pid:55742) is ready to serve requests with 8 threads
+[OCSP Stapling] disabled for certificate file:localhost.pem
+[OCSP Stapling] disabled for certificate file:localhost.pem
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+h2o server (pid:56133) is ready to serve requests with 8 threads
+[OCSP Stapling] disabled for certificate file:localhost.pem
+[OCSP Stapling] disabled for certificate file:localhost.pem
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+[OCSP Stapling] disabled for certificate file:certificates/localhost.pem
+[OCSP Stapling] disabled for certificate file:certificates/localhost.pem
+h2o server (pid:57131) is ready to serve requests with 8 threads
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+[OCSP Stapling] failed to execute share/h2o/fetch-ocsp-response:No such file or directory
+[OCSP Stapling] disabled for certificate file:certificates/localhost.pem
+h2o server (pid:59350) is ready to serve requests with 8 threads
+[OCSP Stapling] disabled for certificate file:certificates/localhost.pem
+rh2o server (pid:59971) is ready to serve requests with 8 threads
+rh2o server (pid:60642) is ready to serve requests with 8 threads
+h2o server (pid:61111) is ready to serve requests with 8 threads
+h2o server (pid:61471) is ready to serve requests with 8 threads
+rh2o server (pid:61895) is ready to serve requests with 8 threads
+received SIGTERM, gracefully shutting down
+h2o server (pid:62240) is ready to serve requests with 8 threads
+rh2o server (pid:63027) is ready to serve requests with 8 threads
+h2o server (pid:63464) is ready to serve requests with 8 threads
+rh2o server (pid:63827) is ready to serve requests with 8 threads
+r
