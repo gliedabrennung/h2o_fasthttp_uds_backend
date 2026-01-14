@@ -1,4 +1,4 @@
-# FastHTTP + Caddy via UDS server
+# FastHTTP + H2O via UDS server
 
 Высокопроизводительный бэкенд на Go с использованием **FastHTTP**, работающий за реверс-прокси **h2o** через **Unix Domain Sockets (UDS)**.
 
